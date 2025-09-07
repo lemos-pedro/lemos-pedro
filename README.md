@@ -27,13 +27,25 @@ Me chamo Ariclene Pedro de Lemos, tenho 17 anos e sou natural de Luanda, Angola.
 
 ---
 
-## Estatísticas do GitHub
-*As estatísticas reais podem ser adicionadas usando GitHub Stats API quando você tiver repositórios públicos.*
+### 📊 Estatísticas
 
-- **Commits:** placeholder  
-- **Pull Requests:** placeholder  
-- **Issues:** placeholder  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 ---
 
 ## Conecte-se comigo
