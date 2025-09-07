@@ -1,4 +1,4 @@
-# Ariclene Pedro de Lemos
+# 👩🏻‍💻 Ariclene Pedro de Lemos
 **Desenvolvedor FullStack**
 
 ---
@@ -47,9 +47,9 @@ Me chamo Ariclene Pedro de Lemos, tenho 17 anos e sou natural de Luanda, Angola.
 
 </p>
 ---
+<br>
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](#) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](#)
