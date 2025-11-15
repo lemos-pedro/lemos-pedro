@@ -4,7 +4,7 @@
 ---
 
 ## Sobre Mim
-Me chamo Ariclene Pedro de Lemos, tenho 17 anos e sou natural de Luanda, Angola. Atualmente curso informática no ensino médio e sou profundamente apaixonado por tecnologia e desenvolvimento de software. Estou constantemente explorando novas ferramentas e linguagens, buscando criar soluções inovadoras e de alto impacto.
+Sou Ariclene Pedro de Lemos, tenho 18 anos e sou natural de Luanda, Angola. Atualmente curso informática no ensino médio e sou profundamente apaixonado por tecnologia e desenvolvimento de software. Estou constantemente explorando novas ferramentas e linguagens, buscando criar soluções inovadoras e de alto impacto.
 
 ---
 
