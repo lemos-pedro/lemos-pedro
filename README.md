@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0369a1&height=120&section=header&text=Ariclene%20Pedro&desc=Software%30Engineer%30•%20Full%20Stack%20Developer&descSize=20&fontSize=60&fontColor=ffffff&animation=twinkling" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0369a1&height=120&section=header&text=Ariclene%20Pedro&desc=Software%20Engineer%20•%20Full%20Stack%20Developer&descSize=18&fontSize=60&fontColor=ffffff&animation=twinkling&descAlignY=75" width="100%">
 <br/>
 
 <!-- Profile Views -->
