@@ -1,92 +1,134 @@
-# 💻 Ariclene Pedro de Lemos
+<div align="center">
 
-**Full Stack Developer | Tech Enthusiast | Forever Learning**
+<!-- HEADER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Ariclene+Pedro+de+Lemos;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 
----
+<br/>
 
-## 🎯 Sobre Mim
+<img src="https://komarev.com/ghpvc/?username=lemos-pedro&label=Profile+Views&color=1a1b27&style=flat-square" alt="Profile Views" />
 
-Sou Ariclene, um desenvolvedor full stack apaixonado por criar experiências digitais incríveis! 🚀 Vindo de Luanda, Angola, tenho 18 anos e estou cursando Informática no ensino médio enquanto construo projetos reais e aprendo tecnologias novas todos os dias.
+<br/><br/>
 
-Para mim, programação não é apenas código — é resolver problemas, criar soluções inovadoras e explorar as infinitas possibilidades da tecnologia. Estou sempre pesquisando novas ferramentas, estudando padrões de design e mergulhando fundo em projetos desafiadores. Cada erro é uma lição, cada projeto é um degrau na minha evolução como engenheiro de software.
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemos7002)
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ariclene.lemos@outlook.com)
+[![Website](https://img.shields.io/badge/lemos.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=white)](mailto:support@lemos.dev)
 
-> *"A tecnologia é minha paixão, o código é minha linguagem e a inovação é meu combustível."*
-
----
-
-## 🛠️ Linguagens e Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" alt="Django" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" style="margin:8px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" style="margin:8px"/>
-</p>
-
-**O que eu faço:**
-- 🎨 Crio interfaces incríveis com **HTML5, CSS3 e JavaScript**
-- 🐍 Desenvolvo backends robustos com **Python, Django e Flask**
-- 🎯 Estilo responsivo e moderno com **Bootstrap e Tailwind CSS**
-- 💾 Gerencio dados com **PostgreSQL e MySQL**
-- 🔧 Versionamento eficiente com **Git e GitHub**
+</div>
 
 ---
 
-## 📊 Minhas Estatísticas
+## About Me
 
-<p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=lemos-pedro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens mais utilizadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemos-pedro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+```yaml
+name: Ariclene Pedro de Lemos
+role: Software Engineer
+education: Estudante do Ensino Médio - Curso de Informática
+location: --
+languages: [Português, English]
+```
 
----
-
-## 🎓 Minha Jornada
-
-Estou em constante evolução! Meus repositórios refletem meus experimentos, aprendizados e projetos em produção. Cada commit é um passo na minha jornada para me tornar um engenheiro de software excepcional.
-
-**O que me motiva:**
-- 🚀 Criar soluções que fazem diferença
-- 📚 Aprender novas tecnologias e linguagens
-- 🤝 Colaborar e compartilhar conhecimento
-- ⚙️ Entender como as coisas funcionam por baixo dos panos
+- Estudante do ensino médio no curso de informática e engenheiro de software.
+- Apaixonado por construir soluções robustas e escaláveis com código limpo.
+- Focado em desenvolvimento full stack, backend e exploração de dados & IA.
+- Sempre em busca de novos desafios e oportunidades de crescimento.
 
 ---
 
-## 🌐 Vamos Nos Conectar!
+## Tech Stack
 
-Adoro conversar sobre tecnologia, compartilhar ideias e colaborar em projetos interessantes! Encontre-me aqui:
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/lemos-pedro/lemos-pedro">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ariclene-de-lemos-8b1703343/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/ariclene_lemos/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>💡 Sempre programando, sempre aprendendo, sempre evoluindo! 🚀</strong>
-</p>
+## Currently Learning
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Aprofundando conhecimentos em **Golang** para sistemas de alta performance |
+| ![Management](https://img.shields.io/badge/-Management-1a1b27?style=flat-square&logo=notion&logoColor=white) | Estudando **Gestão de Projetos** e metodologias ágeis |
+| ![Business](https://img.shields.io/badge/-Business-0A66C2?style=flat-square&logo=briefcase&logoColor=white) | Explorando **Gestão de Empresas** e liderança técnica |
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemos-pedro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemos-pedro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lemos-pedro&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lemos-pedro&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/lemos-pedro?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="All Repos" />
+</a>
+
+</div>
+
+<br/>
+
+> Explore os meus repositórios para ver os projetos em que estou a trabalhar.  
+> Se algum projeto te interessar, deixa uma star!
+
+---
+
+## Contact
+
+<div align="center">
+
+Se quiser entrar em contacto, estou disponível em:
+
+<br/><br/>
+
+[![Email Pessoal](https://img.shields.io/badge/ariclene.lemos@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ariclene.lemos@outlook.com)
+[![Email Profissional](https://img.shields.io/badge/support@lemos.dev-1a1b27?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:support@lemos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemos7002)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%" />
+
+</div>
